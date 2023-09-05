@@ -1,0 +1,5 @@
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F02D9762-C9D4-4594-B7F2-788099ADF5E8}
+
+MsiExec.exe /i XmlNotepadSetup.msi /qn
+
+MsiExec.exe /X{F02D9762-C9D4-4594-B7F2-788099ADF5E8} /qn

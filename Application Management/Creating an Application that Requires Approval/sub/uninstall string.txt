@@ -1,0 +1,3 @@
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Notepad++
+
+"C:\Program Files\Notepad++\uninstall.exe"
