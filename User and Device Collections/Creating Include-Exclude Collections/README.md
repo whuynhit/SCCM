@@ -1,0 +1,15 @@
+# Creating Include/Exclude Collections
+
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/1.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/2.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/3.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/4.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/5.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/6.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/7.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/8.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/9.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/10.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/11.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/12.png)
+![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/13.png)
