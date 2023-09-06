@@ -6,8 +6,13 @@
 ![Appr](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20that%20Requires%20Approval/sub/4.png)
 
 ```
+Regeditor directory for uninstall string and DisplayVersion:
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Notepad++
+
+Install:
 "npp 8.5.6 Installer x64.exe" /S
 
+Uninstall:
 "C:\Program Files\Notepad++\uninstall.exe"
 ```
 
