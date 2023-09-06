@@ -1,3 +1,5 @@
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Google Chrome
 
+"ChromeSetup.exe" /silent /install
+
 "C:\Program Files\Google\Chrome\Application\116.0.5845.141\Installer\setup.exe" --uninstall --channel=stable --system-level --verbose-logging
