@@ -4,9 +4,10 @@
 ### Then right-click Administrative Users and select "Add User or Group."
 ![admin](https://github.com/whuynhit/SCCM/blob/main/Configuration%20Manager%20Basics/Creating%20and%20Managing%20Administrative%20Users/sub/1.png)
 
-### Select a user or group name from the domain.
-### Assigned Security Roles: Add... "Full Administrator."
-### Assigned security scopes and collections: All instances of the objects that are related to the assigned security roles.
+### In the Add User or Group window, specify user or group information:
+  - Select a user or group name from the domain.
+  - Assigned Security Roles: Add... "Full Administrator."
+  - Assigned security scopes and collections: All instances of the objects that are related to the assigned security roles.
 ### Click "OK."
 ![admin](https://github.com/whuynhit/SCCM/blob/main/Configuration%20Manager%20Basics/Creating%20and%20Managing%20Administrative%20Users/sub/2.png)
 
