@@ -7,8 +7,8 @@
 ![CDR](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Collections%20and%20Direct%20Rule%20Overview/sub/1.png)
 
 ### General:
-  - Name: User Collection DirectR
-  - Limiting Collection: All Users
+  - Name: User Collection DirectR.
+  - Limiting Collection: All Users.
 ###
 ![CDR](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Collections%20and%20Direct%20Rule%20Overview/sub/2.png)
 
@@ -80,7 +80,7 @@
 ###
 ![CDR](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Collections%20and%20Direct%20Rule%20Overview/sub/17.png)
 
-3## Select Resources: Select All or specific systems.
+### Select Resources: Select All or specific systems.
 ### Click next til completion, then close.
 ![CDR](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Collections%20and%20Direct%20Rule%20Overview/sub/18.png)
 
