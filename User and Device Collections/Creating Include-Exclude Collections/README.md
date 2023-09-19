@@ -70,5 +70,5 @@
 ### 
 ![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/12.png)
 
-### Now Exclude Collections only holds devices from StaticC DirecctR #2 and excluded devices belonging to StaticC DirectR #1 collections.
+### Now, Exclude Collections only holds devices from StaticC DirecctR #2 and excluded devices belonging to StaticC DirectR #1 collections.
 ![IEC](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/sub/13.png)
