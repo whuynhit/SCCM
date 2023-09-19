@@ -40,6 +40,7 @@
   - User or group name: MYDOMAIN\SCCM Admins
   - Assigned Security Roles: Full Administrator
   - Only the instances of objects that are assigned to the specified security scopes or collections: Add > Collection.
+###
 ![SR](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Assigning%20a%20User%20Collection%20to%20an%20Administrative%20Security%20Role/sub/8.png)
 
 ### Select Collections: SCCM Admins.
