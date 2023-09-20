@@ -197,7 +197,7 @@ where SMS_R_User.UserOUName = "MYDOMAIN.COM/SCCMDOMAIN/MANAGERS"
 ## Device Collections
 
 ### In SCCM, Navigate to Assets and Compliance\Overview\Device Collections.
-### Right-click and create a new user collection.
+### Right-click and create a new device collection.
 ### General:
 - Name: Query Services.
 - Limiting Collections: All Systems.
