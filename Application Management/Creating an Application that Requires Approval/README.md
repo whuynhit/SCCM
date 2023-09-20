@@ -124,6 +124,7 @@ Uninstall program:
 ### User Experience:
   - User notifications: Display in Software Center, and only show notifications for computer restarts.
   - Enable "Commit changes at deadline or during a maintenance window (requires restart)."
+###
 ![Appr](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20that%20Requires%20Approval/sub/18.png)
 
 ### Click "Next" til completion and then click "Close."
