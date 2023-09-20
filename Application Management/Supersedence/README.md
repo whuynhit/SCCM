@@ -26,10 +26,12 @@
 ### General:
   - Software: 7-Zip 23.01 x64.
   - Collection: Windows 10 Workstations.
+###
 ![Super](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Supersedence/sub/4.png)
 
 ### Content:
   - Add... Distribution Point.
+###
 ![Super](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Supersedence/sub/5.png)
 
 ### Select WS22SCCM.MYDOMAIN.COM as Distribution Point.
