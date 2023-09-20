@@ -1,4 +1,4 @@
-# Supercedence
+# Supersedence
 
 ### For this example, we shall be superseding [7-Zip](https://www.7-zip.org/download.html) with the latest version.
 ### In SCCM, navigate to Software Library\Overview\Application Management\Applications.
