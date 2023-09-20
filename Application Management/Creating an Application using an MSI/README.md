@@ -41,15 +41,18 @@
 ### Navigate to the User Experience tab:
   - Maximum allowed run time (minutes): 15 minutes.
   - Estimated installation time (minutes): 2 minutes.
+###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/7.png)
 
 ### ### Navigate to the Requirements tab.
   - Add...
+###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/8.png)
 
 ### Create Requirement:
   - Condition: Operating System.
   - Operator: One of... All Windows 10 (64-bit).
+###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/9.png)
 
 ### With a requirement condition set, SCCM will restrict 7-Zip x64 installation attempts to Windows 10 64-bit systems. 
@@ -76,6 +79,7 @@
 ### Create Requirement:
   - Condition: Operating System.
   - Operator: One of... All Windows 10 (32-bit).
+###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/14.png)
 
 ### Click next til completion, then click "OK."
@@ -110,10 +114,12 @@
 ### General:
   - Software: 7-Zip 22.01 x64.
   - Collection: Windows 10 Workstations.
+###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/20.png)
 
 ### Content:
   - Add... Distribution Point.
+###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/21.png)
 
 ### Select WS22SCCM.MYDOMAIN.COM as Distribution Point.
