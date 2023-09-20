@@ -8,7 +8,7 @@
 
 ### General Information:
   - Name: Google Chrome.
-  - Application comments: Browser.  
+  - Application comments: Browser.
   - Publisher: Google.
   - Software version: 116.0.5845.141.
   - Owners: Administrator.
