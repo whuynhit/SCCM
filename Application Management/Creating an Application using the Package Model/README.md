@@ -7,6 +7,7 @@
   - Name: XML Notepad.
   - Enable "This package contains source files."
   - Source folder: \\WS2SCCM\Software\XML Notepad\XmlNotepadSetup.
+###
 ![pack](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20the%20Package%20Model/sub/1.png)
 
 ### Program Type: Standard program.
@@ -29,6 +30,7 @@ MsiExec.exe /i XmlNotepadSetup.msi /qn
   - Enable "This program can run on any platform."
   - Estimated disk space: 10 MB.
   - Maximum allowed run time (minutes): 15.
+###
 ![pack](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20the%20Package%20Model/sub/4.png)
 
 ### Click "Next" and then click "Close."
@@ -59,6 +61,7 @@ MsiExec.exe /i XmlNotepadSetup.msi /qn
 
 ### Content:
   - Select WS22SCCM.MYDOMAIN.COM as Distribution Point.
+###
 ![pack](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20the%20Package%20Model/sub/12.png)
 
 ### Deployment Settings:
@@ -77,7 +80,8 @@ MsiExec.exe /i XmlNotepadSetup.msi /qn
 
 ### User Experience:
   - Enable "Software Installation."
-  - Enable "Commit change at deadline or during a maintenance window (requires restarts)." 
+  - Enable "Commit change at deadline or during a maintenance window (requires restarts)."
+###
 ![pack](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20the%20Package%20Model/sub/17.png)
 
 ### Click "Next" and then click "Close."
