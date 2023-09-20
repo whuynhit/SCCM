@@ -99,7 +99,7 @@ Uninstall program:
 ![exe](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20EXE/sub/15.png)
 
 
-### Right-click the newly created application and select "Propertie."
+### Right-click the newly created application and select "Properties."
 ### Google Chrome Properties:
   - Enable "Allow this application to be installed from the Install Application task sequence action without being deployed."
 ### Apply changes.
