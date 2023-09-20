@@ -35,6 +35,7 @@
 ### Schedule:
   - Name: Contoso OU Maintenance Schedule
   - Set the scheduled time to whenever you like.
+###
 ![MW](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Using%20a%20Collection%20to%20Enforce%20a%20Maintenance%20Window/sub/7.png)
 
 ### Click "Apply" and then "OK."
