@@ -24,7 +24,7 @@
 
 ### In Software Library\Overview\Application Management\Applications, right-click the newly created application and select "Propertie."
 ### 7-Zip 22.01 x64 Properties:
-  - Enable "Allow this application to be installed from the Installa Application task sequence action without being deployed."
+  - Enable "Allow this application to be installed from the Install Application task sequence action without being deployed."
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/4.png)
 
 ### In Software Center:
