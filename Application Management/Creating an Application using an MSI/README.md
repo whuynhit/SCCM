@@ -5,16 +5,16 @@
 ### Right-click and select "Create Application."
 ### Automatically detect information about this application from installation files:
   - Type: Windows Installer (*.msi file).
-  - Location: \\WS22SCCM\Software\Software\7Zip 2301 x64\7z2301-x64.msi.
+  - Location: \\WS22SCCM\Software\Software\7Zip 2201 x64\7z2201-x64.msi.
 ###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/1.png)
 
 ### General Information:
-  - Name: 7-Zip 23.01 x64
+  - Name: 7-Zip 22.01 x64
   - Application comments: 7-Zip is a file archiver.  
   - Publisher: Igor Pavlov.
-  - Software version: 23.01.
-  - Installation program: msiexec /i "7z2301-x64.msi" /q.
+  - Software version: 22.01.
+  - Installation program: msiexec /i "7z2201-x64.msi" /q.
   - Install behavior: Install for system.
 ###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/2.png)
@@ -23,12 +23,12 @@
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/3.png)
 
 ### In Software Library\Overview\Application Management\Applications, right-click the newly created application and select "Propertie."
-### 7-Zip 23.01 x64 Properties:
+### 7-Zip 22.01 x64 Properties:
   - Enable "Allow this application to be installed from the Installa Application task sequence action without being deployed."
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/4.png)
 
 ### In Software Center:
-  - Localized Application Name: 7-Zip 2301 x64.
+  - Localized Application Name: 7-Zip 2201 x64.
   - User categories: File Archiver.
   - Localized description: 7-Zip is a file archiver.
   - Icon: <image.icon>.
@@ -61,13 +61,13 @@
 
 ### Automatically detect information about this application from installation files:
   - Type: Windows Installer (*.msi file).
-  - Location: \\WS22SCCM\Software\Software\7Zip 2301 x86\7z2301.msi.
+  - Location: \\WS22SCCM\Software\Software\7Zip 2201 x86\7z2201.msi.
 ###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/12.png)
 
 ### General Information:
-  - Name: 7-Zip 23.01 x86
-  - Installation program: msiexec /i "7z2301.msi" /q.
+  - Name: 7-Zip 22.01 x86
+  - Installation program: msiexec /i "7z2201.msi" /q.
   - Install behavior: Install for system.
 ###
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/13.png)
@@ -108,7 +108,7 @@
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/19.png)
 
 ### General:
-  - Software: 7-Zip 23.01 x64.
+  - Software: 7-Zip 22.01 x64.
   - Collection: Windows 10 Workstations.
 ![MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/sub/20.png)
 
