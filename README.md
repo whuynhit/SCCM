@@ -1,7 +1,7 @@
-### SCCM Home Labs
+## SCCM Home Labs
 
 
-Configuration Manager Basics
+### Configuration Manager Basics
   
 - [Creating and Managing Administrative Users](https://github.com/whuynhit/SCCM/blob/main/Configuration%20Manager%20Basics/Creating%20and%20Managing%20Administrative%20Users/README.md)
 - [Creating Boundary and Boundary Groups](https://github.com/whuynhit/SCCM/blob/main/Configuration%20Manager%20Basics/Creating%20Boundary%20and%20Boundary%20Groups/README.md)
@@ -9,7 +9,7 @@ Configuration Manager Basics
 
 
 
-Deploying The SCCM Client
+### Deploying The SCCM Client
   
 - [Preparing for Client Installations with Group Policy](https://github.com/whuynhit/SCCM/blob/main/Deploying%20The%20SCCM%20Client/Preparing%20for%20Client%20Installations%20with%20Group%20Policy/README.md)
 - [Client Push Installation](https://github.com/whuynhit/SCCM/blob/main/Deploying%20The%20SCCM%20Client/Client%20Push%20Installation/README.md)
@@ -28,8 +28,7 @@ Updating SCCM
  -->
 
 
-User and Device Collections
-
+### User and Device Collections
 
 - [Collections and Direct Rule Overview](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Collections%20and%20Direct%20Rule%20Overview/README.md)  
 - [Creating Include/Exclude Collections](https://github.com/whuynhit/SCCM/blob/main/User%20and%20Device%20Collections/Creating%20Include-Exclude%20Collections/README.md)
@@ -40,7 +39,7 @@ User and Device Collections
 
 
 
-Application Management
+### Application Management
   
 - [Creating an Application using an MSI](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Creating%20an%20Application%20using%20an%20MSI/README.md)
 - [Supersedence](https://github.com/whuynhit/SCCM/blob/main/Application%20Management/Supersedence/README.md)
